@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/devclinton/putio-sync/main/snap/gui/putio-sync.png</Icon>
+  <Profile>Unraid templates for putio-sync, an open-source sync daemon for Put.io. putio-sync is an independent project and is not affiliated with Put.io.</Profile>
+  <WebPage>https://devclinton.github.io/putio-sync/</WebPage>
+  <Forum>https://github.com/devclinton/putio-sync/issues</Forum>
+</Maintainer>
